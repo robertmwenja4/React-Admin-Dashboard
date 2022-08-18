@@ -1,0 +1,19 @@
+.container {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.inp {
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    padding: 10px;
+    width: 100px;
+    background-color: aqua;
+    cursor: pointer;
+}
